@@ -1,4 +1,8 @@
 ### Hi there 👋
+Welcome to my GitHub!
+- 📫 How to reach me?Please contact me by email: lzhpo@qq.com
+- 💬 Ask me about?Not limited to technology,it can be in many ways.
+- 👯 If you are looking for cooperation, please contact me by email.
 
 <!--
 **lzhpo/lzhpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
