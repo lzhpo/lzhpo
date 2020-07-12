@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Welcome to my GitHub!
+## 👋 Hi there, welcome to my Github.
 
 😄 If you are interested, you can have a look at my blog: [https://www.lzhpo.com](https://www.lzhpo.com)
 
