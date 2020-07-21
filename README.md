@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=TyCoding&show_icons=true&hide_title=true">
+
 ## 👋 Hi there, welcome to my github.
 
 😄 If you are interested, you can have a look at my blog: [https://www.lzhpo.com](https://www.lzhpo.com)
