@@ -4,7 +4,7 @@
 
 😄 If you are interested, you can have a look at my blog: [https://www.lzhpo.com](https://www.lzhpo.com)
 
-📫 How to reach me?Please contact me by email: lzhpo@qq.com
+📫 How to reach me?Please contact me by email: lzhpo@outlook.com
 
 💬 Ask me about?Not limited to technology, it can be in many ways.
 
