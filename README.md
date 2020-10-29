@@ -2,7 +2,7 @@
 
 ## 👋 Hi there, welcome to my github.
 
-😄 If you are interested, you can have a look at my blog: [https://www.lzhpo.com](https://www.lzhpo.com)
+😄 If you are interested, you can have a look at my blog: [http://www.lzhpo.com](http://www.lzhpo.com)
 
 📫 How to reach me?Please contact me by email: lzhpo1024@gmail.com
 
