@@ -6,16 +6,11 @@
 </p>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lzhpo&count_private=true&show_icons=true&hide_title=true"/>
 
-## Hi there 👋 I'm lzhpo.
+## Hi there 👋 I'm lzhpo
 
-<p align="left">
-    I'm a full-stack developer.I like playing basketball and coding and often active on some technology platforms to learn good things.
-</p>
+I'm a full-stack developer.I like playing basketball and coding and often active on some technology platforms to learn good things.
 
-
-
-
-<div>
+<p>
     <a href="https://github.com/lzhpo">
         <img alt="lzhpo's Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
     </a>
@@ -29,8 +24,7 @@
     <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/shiba.png"/>
     <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/shiba.png"/>
     <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/shiba.png"/>
-</div>
-
+</p>
 
 
 <details>
@@ -88,7 +82,7 @@ var lzhpo = &map[string]interface{}{
 						"SpringCloud Sleuth",
 						"SpringCloud Zipkin",
 					},
-					"messageQueues": []string{"RabbitMQ", "Pulsar"},
+					"messageQueues": []string{"RabbitMQ", "Kafka", "Pulsar"},
 					"searchEngine":  []string{"Elasticsearch", "Logstash", "Kibana"},
 					"devops":        []string{"Docker", "Nginx", "Git", "Maven", "Gradle"},
 				},
