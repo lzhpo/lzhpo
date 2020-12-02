@@ -4,7 +4,7 @@
             You cannot improve your past, but you can improve your future. Once time is wasted, life is wasted..			</strong>
     </samp>
 </p>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lzhpo&count_private=true&show_icons=true&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lzhpo&count_private=true&show_icons=true&hide_title=true" alt="This is my Github statistics this year" />
 
 ## Hi there 👋 I'm lzhpo
 
@@ -32,7 +32,9 @@ I'm a full-stack developer.I like playing basketball and coding and often active
         <b>More about me</b>
     </summary>
 
-<img align="center" src="https://github.com/lzhpo/lzhpo/raw/master/images/bug.png" alt="" />
+<p align="center">
+    <img align="center" src="https://github.com/lzhpo/lzhpo/raw/master/images/bug.png" alt="🎉Wishing you no 🐛 in your life.😄" />
+</p>
 
 
 <h3 align="center">Languages</h3>
