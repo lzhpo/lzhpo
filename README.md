@@ -38,7 +38,8 @@
     <summary>
         <b>More about me</b>
     </summary>
-[![](https://github.com/lzhpo/lzhpo/tree/master/images/bug.png)](http://www.lzhpo.com)
+
+![](images/bug.png)
 
 
 <h3 align="center">Languages</h3>
