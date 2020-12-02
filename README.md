@@ -4,7 +4,7 @@
             You cannot improve your past, but you can improve your future. Once time is wasted, life is wasted..			</strong>
     </samp>
 </p>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lzhpo&count_private=true&show_icons=true&hide_title=true" alt="This is my Github statistics this year" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lzhpo&count_private=true&show_icons=true&hide_title=true" />
 
 ## Hi there 👋 I'm lzhpo
 
@@ -21,9 +21,9 @@ I'm a full-stack developer.I like playing basketball and coding and often active
         <img alt="lzhpo's Telegram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>
     </a>
     <br/>
-    <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/shiba.png"/>
-    <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/shiba.png"/>
-    <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/shiba.png"/>
+    <img align="right" width="48px" src="https://raw.githubusercontent.com/lzhpo/lzhpo/master/images/cat-head.png"/>
+    <img align="right" width="48px" src="https://raw.githubusercontent.com/lzhpo/lzhpo/master/images/cat-head.png"/>
+    <img align="right" width="48px" src="https://raw.githubusercontent.com/lzhpo/lzhpo/master/images/cat-head.png"/>
 </p>
 
 
@@ -33,7 +33,7 @@ I'm a full-stack developer.I like playing basketball and coding and often active
     </summary>
 
 <p align="center">
-    <img align="center" src="https://github.com/lzhpo/lzhpo/raw/master/images/bug.png" alt="🎉Wishing you no 🐛 in your life.😄" />
+    <img align="center" src="https://github.com/lzhpo/lzhpo/raw/master/images/bug.png" />
 </p>
 
 
