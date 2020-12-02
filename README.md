@@ -4,13 +4,15 @@
             You cannot improve your past, but you can improve your future. Once time is wasted, life is wasted..			</strong>
     </samp>
 </p>
-<h2>
-    <samp>Hi there! I'm lzhpo.</samp>
-</h2>
-<p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lzhpo&count_private=true&show_icons=true&hide_title=true"/>
+
+### Hi there! I'm lzhpo.
+
+<p align="left">
     I am a full-stack developer. I like playing basketball and coding. I'm often active on major technology platforms to learn good things.
 </p>
-<p>
+
+<div>
     <a href="https://github.com/lzhpo">
         <img alt="lzhpo's Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
     </a>
@@ -24,11 +26,13 @@
     <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/shiba.png"/>
     <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/shiba.png"/>
     <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/shiba.png"/>
-</p>
+</div>
+
 <details>
     <summary>
         <b>More about me</b>
     </summary>
+
 
 ![](images/bug.png)
 
