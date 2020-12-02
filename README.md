@@ -38,7 +38,8 @@
     <summary>
         <b>More about me</b>
     </summary>
-[![](https://github.com/kallydev/kallydev/blob/main/images/banner.png)](https://kallydev.com)
+[![](https://github.com/lzhpo/lzhpo/tree/master/images/bug.png)](http://www.lzhpo.com)
+
 
 <h3 align="center">Languages</h3>
 <p align="center">
