@@ -6,11 +6,14 @@
 </p>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lzhpo&count_private=true&show_icons=true&hide_title=true"/>
 
-### Hi there! I'm lzhpo.
+## Hi there 👋 I'm lzhpo.
 
 <p align="left">
-    I am a full-stack developer. I like playing basketball and coding. I'm often active on major technology platforms to learn good things.
+    I'm a full-stack developer.I like playing basketball and coding and often active on some technology platforms to learn good things.
 </p>
+
+
+
 
 <div>
     <a href="https://github.com/lzhpo">
@@ -27,6 +30,8 @@
     <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/shiba.png"/>
     <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/shiba.png"/>
 </div>
+
+
 
 <details>
     <summary>
