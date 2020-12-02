@@ -25,15 +25,6 @@
     <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/shiba.png"/>
     <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/shiba.png"/>
 </p>
-
-😄 If you are interested, you can have a look at my blog: [www.lzhpo.com](www.lzhpo.com)
-
-📫 How to reach me?Please contact me by email: lzhpo1024@gmail.com
-
-💬 Ask me about?Not limited to technology, it can be in many ways.
-
-👯 If you are looking for cooperation, please contact me by email.
-
 <details>
     <summary>
         <b>More about me</b>
