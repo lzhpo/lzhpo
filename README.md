@@ -1,4 +1,4 @@
-### 💻 My personal open source projects
+### My personal open source project
 
 1. [chatgpt-spring-boot-starter](https://github.com/lzhpo/chatgpt-spring-boot-starter)
 2. [sensitive-spring-boot-starter](https://github.com/lzhpo/sensitive-spring-boot-starter)
